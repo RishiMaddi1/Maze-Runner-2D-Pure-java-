@@ -5,17 +5,3 @@
 ![Screenshot (370)](https://github.com/user-attachments/assets/fc0c1a88-8f66-455b-9546-efddcd0abbf6)
 ![Screenshot (371)](https://github.com/user-attachments/assets/861de389-92de-4997-9fe0-5f7120ac629e)
 
-## License Agreement
-
-Copyright © 2025  
-All rights reserved. Maddi Rishi Dhaneswar
-
-This software and its associated documentation are proprietary and confidential.  
-Unauthorized use, reproduction, distribution, or modification of any part of this codebase is strictly prohibited without explicit written permission from the owner (Maddi Rishi Dhaneswar).
-
-This repository is shared for academic evaluation and publication purposes only.
-
-If you wish to collaborate, request access, or seek clarification, please contact:  
-maddi.rishi2468@gmail.com
-
-No license is granted by implication, estoppel, or otherwise.
